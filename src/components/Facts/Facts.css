@@ -1,0 +1,26 @@
+.factsCon {
+    min-height: 50vh;
+}
+
+.card{
+    display: flex;
+  justify-content: center;
+  flex-direction: row;
+    background-color: var(--background-colour);
+    width: 100%;
+    padding: 50px;
+    border: 5px solid rgba(255,255,255, 0.8);
+}
+
+.button {
+    border-radius: 25px;
+    min-width: 20px;
+    height: 50px;
+    background-color: #35251c;
+    color: white;
+}
+
+.button:hover{
+    background-color: #a07154;
+    color: white;
+}
