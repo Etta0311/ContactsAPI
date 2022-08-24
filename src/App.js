@@ -1,4 +1,4 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { BrowserRouter as Router} from "react-router-dom";
 import Header from "./components/Header/Header";
 import Effect from "./components/Animation/Effect";
 import Facts from "./components/Facts/Facts";
@@ -12,9 +12,6 @@ function App() {
         <Header />
         <Effect />
         <Facts />
-        {/* <Routes>
-          <Route path="/" element={<Home />} />
-        </Routes> */}
         <Footer />
       </Router>
     </div>
