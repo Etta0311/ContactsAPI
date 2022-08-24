@@ -24,15 +24,15 @@ const Facts = () => {
   }, []);
 
   return (
-    <div class="factsCon">
+    <div className="factsCon">
       <h1 className="display-3 text-center pb-5">Random Facts</h1>
-      <div class="card">
-        <div class="card-body text-center">
+      <div className="card">
+        <div className="card-body text-center">
           {results.fact ? <h2>{results.fact}</h2> : null}
         </div>
       </div>
-      <div class="d-grid col-5 mx-auto my-4">
-        <button class="btn button" onClick={searchAPI} >
+      <div className="d-grid col-5 mx-auto my-4">
+        <button className="btn button" onClick={searchAPI} >
           Random A Fact !
         </button>
       </div>
