@@ -16,11 +16,12 @@ const Facts = () => {
       console.log(response.data);
     });
 
-    setCount(count+1);
+    setCount((prevcount) => prevcount + 1);
   };
 
   useEffect(() => {
     searchAPI();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
   return (
