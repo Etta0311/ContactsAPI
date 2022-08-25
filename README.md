@@ -10,6 +10,8 @@
 
 * [Questions](#questions)
 
+# Deployed link: https://etta0311.github.io/CatFactAPI/
+
 <a name="description"></a>
 ## 📝 Description
 This is a React application generating random fun facts about cats via CatFact.ninja API. One assumption of this app is the length of random facts fixed to obtain at its maximum length (aka 64).
