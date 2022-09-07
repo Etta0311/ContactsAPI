@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ContactsAPI/static/css/main.59a6abd3.css",
+    "main.js": "/ContactsAPI/static/js/main.dcd2a362.js",
+    "index.html": "/ContactsAPI/index.html",
+    "main.59a6abd3.css.map": "/ContactsAPI/static/css/main.59a6abd3.css.map",
+    "main.dcd2a362.js.map": "/ContactsAPI/static/js/main.dcd2a362.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59a6abd3.css",
+    "static/js/main.dcd2a362.js"
+  ]
+}
