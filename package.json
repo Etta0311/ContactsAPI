@@ -1,7 +1,7 @@
 {
-  "name": "catapi",
+  "name": "contactsapi",
   "version": "0.1.0",
-  "homepage": "https://Etta0311.github.io/CatFactAPI",
+  "homepage": "https://Etta0311.github.io/ContactsAPI",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

@@ -4,20 +4,26 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  min-height: 35vh;
+  min-height: 20vh;
 }
 
-@media (max-width: 780px) {
+@media (max-width: 850px) {
     .anime {
-      min-height: 55vh;
+      min-height: 18vh;
       font-size: 25px;
     }
   }
   
-  
-  @media (max-width: 550px) {
+  @media (max-width: 640px) {
     .anime {
-      min-height: 45vh;
+      min-height: 15vh;
+      font-size: 20px;
+    }
+  }
+
+  @media (max-width: 520px) {
+    .anime {
+      min-height: 15vh;
       font-size: 15px;
     }
   }

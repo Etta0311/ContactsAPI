@@ -11,9 +11,8 @@ const Home = () => {
             typewriter
               .pauseFor(1500)
               .typeString(
-                `Cat-Lovers?
-Check out some random fun facts about cat!!
-Click the below button.`
+                `Looking for someone?
+Check your contacts here.`
               )
               .pauseFor(1000)
               .start();

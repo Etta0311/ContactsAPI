@@ -1,9 +1,8 @@
 import { BrowserRouter as Router} from "react-router-dom";
 import Header from "./components/Header/Header";
 import Effect from "./components/Animation/Effect";
-import Facts from "./components/Facts/Facts";
+import Contacts from "./components/Contacts/Contacts";
 import Footer from "./components/Footer/Footer";
-// import "./App.css";
 
 function App() {
   return (
@@ -11,7 +10,7 @@ function App() {
       <Router basename="/">
         <Header />
         <Effect />
-        <Facts />
+        <Contacts />
         <Footer />
       </Router>
     </div>

@@ -1,4 +1,4 @@
-# Cat Fact API
+# Contacts API
 ---
 ## Table of Content 
 
@@ -10,18 +10,18 @@
 
 * [Questions](#questions)
 
-# Deployed link: https://etta0311.github.io/CatFactAPI/
+ Deployed link: https://etta0311.github.io/ContactsAPI/
 
 <a name="description"></a>
 ## 📝 Description
-This is a React application generating random fun facts about cats via CatFact.ninja API. One assumption of this app is the length of random facts fixed to obtain at its maximum length (aka 64).
+This is a React application generating fake Contacts list via a free fake API.
 
 <a name="technologies"></a>
 ## 🕹 Technologies used 
 - JavaScript
 - node.js
 - React
-- CatFact.ninja API
+- free fake API
 - Typescript-effect
 
 <a name="installation"></a>
@@ -32,7 +32,7 @@ This is a React application generating random fun facts about cats via CatFact.n
 
 3. Run `npm install` to download.
 
-5. To start the application, run: `npm start`
+4. To start the application, run: `npm start`
 
 <a name="contributors"></a>
 ## 👥 Contributors
